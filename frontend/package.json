@@ -13,6 +13,7 @@
     "node": ">=24"
   },
   "dependencies": {
+    "lucide-react": "^1.52.0",
     "react": "19.2.7",
     "react-dom": "19.2.7"
   },
